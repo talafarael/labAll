@@ -1,8 +1,6 @@
 /******************************************************************************
-
-                              Online C++ Compiler.
-               Code, Compile, Run and Debug C++ program online.
-Write your code in this editor and press "Run" button to compile and execute it.
+Напишіть програму, яка моделює гру "Вгадай число", де комп'ютер намагається вгадати число, яке задумав користувач, використовуючи цикл while.
+           https://docs.google.com/document/d/1QogNk0zPrNq6UNLASgbhnIllBBChuIxH/edit?usp=sharing&ouid=104607196295309904978&rtpof=true&sd=true
 
 *******************************************************************************/
 
